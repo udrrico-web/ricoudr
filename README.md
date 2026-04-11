@@ -1,1 +1,1 @@
-Site pour un restaurant 
+Site salon de coiffure 
